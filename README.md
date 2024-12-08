@@ -98,7 +98,7 @@ __Demo settings: Web, GPT4, ElevenLabs with voice clone, Chroma, Google Speech t
 ## 💿 Developers - Installation via Python
 - **Step 1**. Clone the repo
    ```sh
-   git clone https://github.com/Shaunwei/RealChar.git && cd RealChar
+   git clone https://github.com/enrique-a/voiceAI.git && cd RealChar
     ```
 - **Step 2**. Install requirements
 
